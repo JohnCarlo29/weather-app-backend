@@ -25,3 +25,8 @@ To serve the project, run `php artisan serve`
 ## Running the Test
 
 To serve the project, run `php artisan test`
+
+
+## Screenshots
+![Screenshot 2023-01-07 at 7 15 38 PM](https://user-images.githubusercontent.com/28754015/211147520-539ffbbd-fb1b-4a08-a313-8f68452bc6ba.png)
+![Screenshot 2023-01-07 at 7 19 17 PM](https://user-images.githubusercontent.com/28754015/211147550-3dbe4e55-8402-47ac-a3d8-ed533390f986.png)
