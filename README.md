@@ -16,6 +16,7 @@ In order to use this backend, you will need to obtain API keys for the following
 OPEN_WEATHER_KEY=
 FOURSQUARE_KEY=
 ```
+4. Run `composer install`
 
 ## Running the project
 
